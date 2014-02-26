@@ -11,7 +11,7 @@ enddate: 2014-03-18
 latlng: 47.655335,-122.303519
 registration: restricted
 eventbrite: 10299635487
-instructor: ["Bernhard Konrad", "Jenny Bryan", "Tommy Guy", "Christina Koch", "Lynne Williams", "Jonah Duckles", "Trevor King"]
+instructor: ["Bernhard Konrad", "Jenny Bryan", "Tommy Guy", "Christina Koch", "Lynne Williams", "Trevor King"]
 contact: admin@software-carpentry.org
 ---
 {% include bootcamps/eventbrite.html %}
@@ -29,11 +29,27 @@ contact: admin@software-carpentry.org
 <div class="row-fluid">
   <div class="span6">
     {% include setup/overview-bash.html %}
+        {% include setup/linux-bash.html %}
+        {% include setup/macosx-bash.html %}
+        {% include setup/windows-bash.html %}
     {% include setup/overview-editor.html %}
+        {% include setup/linux-editor.html %}
+        {% include setup/macosx-editor.html %}
+        {% include setup/windows-editor.html %}
+    {% include setup/overview-git.html %}
+        {% include setup/linux-git.html %}
+        {% include setup/macosx-git.html %}
+        {% include setup/windows-git.html %}
   </div>
   <div class="span6">
-    {% include setup/overview-git.html %}
     {% include setup/overview-python.html %}
+        {% include setup/linux-python.html %}
+        {% include setup/macosx-python.html %}
+        {% include setup/windows-python.html %} 
+    {% include setup/overview-sqlite.html %}
+        {% include setup/linux-sqlite.html %}     
+        {% include setup/macosx-sqlite.html %} 
+        {% include setup/windows-sqlite.html %}   
   </div>
 </div>
 
@@ -52,6 +68,16 @@ contact: admin@software-carpentry.org
       <li>{% include guide-shell/loop/title.md %}</li>
       <li>{% include guide-shell/scripts/title.md %}</li>
       <li>{% include guide-shell/find/title.md %}</li>
+    </ul>
+    <h3><a href="lessons/swc-python/tutorial.html">Python</a></h3>
+    <ul>
+    <li>{% include guide-pyblocks/types/title.md %}</li>
+    <li>{% include guide-pyblocks/index/title.md %}</li>
+    <li>{% include guide-pyblocks/basic/title.md %}</li>
+    <li>{% include guide-pyblocks/forloop/title.md %}</li>
+    <li>{% include guide-pyblocks/lib/title.md %}</li>
+    <li>{% include guide-pyblocks/logic/title.md %}</li>
+    <li>{% include guide-pyblocks/design/title.md %}</li>
     </ul>
   </div>
   <div class="span6">
