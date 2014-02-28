@@ -1,7 +1,7 @@
 ---
 layout: lesson
 root: ../../../
-title: Intermediate R, January 2014 U of Miami Software Carpentry Bootcamp
+title: R, March 2014 U Washington Software Carpentry Bootcamp
 raw: raw.github.com/swcarpentry/bc/gh-pages
 ---
 
