@@ -5,9 +5,9 @@ title: R, March 2014 U Washington Software Carpentry Bootcamp
 raw: raw.github.com/swcarpentry/bc/gh-pages
 ---
 
-[http://tiny.cc/rmiami](http://tiny.cc/rmiami) points to this page
+[http://tiny.cc/ruw-syllabus](http://tiny.cc/ruw-syllabus) points to this page
 
-[http://tiny.cc/rmiami-github](http://tiny.cc/rmiami-github) points to the Github repository the instructors will use during the bootcamp
+[http://tiny.cc/ruw-githubb](http://tiny.cc/ruw-github) points to the Github repository the instructors will use during the bootcamp
 
 [http://tiny.cc/gapminder](http://tiny.cc/gapminder) points to the Gapminder data we'll use
 
