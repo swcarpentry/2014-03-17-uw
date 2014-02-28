@@ -11,7 +11,7 @@ raw: raw.github.com/swcarpentry/bc/gh-pages
 
 [http://tiny.cc/gapminder](http://tiny.cc/gapminder) points to the Gapminder data we'll use
 
-[Etherpad](https://etherpad.mozilla.org/2014-01-swc-miami-intermediate) link
+[Etherpad](https://2014-03-17-uw.etherpad.mozilla.org/2) link
 
 [Slides for git intro](http://jennybc.github.io/2014-01-27-miami/lessons/git-slides/git-intro.slides.html#/)
 
