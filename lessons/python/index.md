@@ -1,6 +1,6 @@
 ---
 layout: lesson
-root: ../../../
+root: ../../
 title: Python, March 2014 U Washington Software Carpentry Bootcamp, OUG 220, 4060 George Washington Ln NE
 raw: raw.github.com/swcarpentry/bc/gh-pages
 ---
