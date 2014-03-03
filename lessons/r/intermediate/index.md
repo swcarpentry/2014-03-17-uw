@@ -1,7 +1,7 @@
 ---
 layout: lesson
 root: ../../../
-title: R, March 2014 U Washington Software Carpentry Bootcamp
+title: R, March 2014 U Washington Software Carpentry Bootcamp, HUB 145, 4001 Stevens Way NE
 raw: raw.github.com/swcarpentry/bc/gh-pages
 ---
 
