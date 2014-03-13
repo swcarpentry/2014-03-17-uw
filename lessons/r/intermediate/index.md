@@ -51,11 +51,14 @@ Session 1.4
 
 Session 2.1
 
-  * The shell, especially file management.
-  * R native equivalents for same operations.
+  * File organization.
+  * R functions and the debugger.
+ 
 
 Session 2.2
 
+  * The shell, especially file management.
+  * R native equivalents for same operations.
   * Version control with remote/hosted repositories. Github.
 
 Session 2.3
