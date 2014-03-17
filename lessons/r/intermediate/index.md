@@ -7,7 +7,7 @@ raw: raw.github.com/swcarpentry/bc/gh-pages
 
 [http://tiny.cc/ruw-syllabus](http://tiny.cc/ruw-syllabus) points to this page
 
-[http://tiny.cc/ruw-githubb](http://tiny.cc/ruw-github) points to the Github repository the instructors will use during the bootcamp
+[http://tiny.cc/ruw-githubb](http://tiny.cc/ruw-github) points to the Github repository the instructors will use during the bootcamp __<-- this seems to point to the repository that underpins this website; still potentially useful!__
 
 CORRECTION (?): the actual Github repository instructors will work with during the bootcamp: [https://github.com/LJWilliams/UW-R](https://github.com/LJWilliams/UW-R)
 
