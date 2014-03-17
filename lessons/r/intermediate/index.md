@@ -9,6 +9,8 @@ raw: raw.github.com/swcarpentry/bc/gh-pages
 
 [http://tiny.cc/ruw-githubb](http://tiny.cc/ruw-github) points to the Github repository the instructors will use during the bootcamp
 
+CORRECTION (?): the actual Github repository instructors will work with during the bootcamp: [https://github.com/LJWilliams/UW-R](https://github.com/LJWilliams/UW-R)
+
 [http://tiny.cc/gapminder](http://tiny.cc/gapminder) points to the Gapminder data we'll use
 
 [Etherpad](https://2014-03-17-uw.etherpad.mozilla.org/2) link
