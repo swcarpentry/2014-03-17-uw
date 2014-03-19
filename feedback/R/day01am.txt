@@ -1,0 +1,131 @@
+Feedback R workshop at UW
+2014-03-17 morning
+
+Intro to R and RStudio (Bernhard)
+---------------------------------
+
+
+To improve:
+-----------
+
+Video at beginning a little silly
+
+could go faster +5
+
+Bernhard knows what he's talking about but explaining could be more clear and concise
+
+Bernhard wasn't sure what he was doing. Improved later, so maybe just nerves, but it was sort of unfocused.
+
+Intro too basic for those who have used R before, but I get why you do it...
+
+more examples
+
+maybe less intro and jump into RStudio earlier
+
+To get same plot from random noise use set.seed()
+
+Would have liked to get overview of and motivation for R
+
+Assume that we all have a workspace that is in use. So start morning session by having us create a new workspace just for bootcamp
+
+
+Good/Keep:
+----------
+
+Liked stepping through RStudio
+
+Good pace for beginners +11
+
+Nice R/RStudio tips&tricks +1 
+
+I appreciate getting started correctly
+
+Clear and easy to follow +4
+
+Good movie clip to illustrate principles (tools, organization)
+
+Great combination of concepts and specific examples
+
+Never used RStudio before, but I will now
+
+
+
+
+Care and feeding of R objects (Jenny)
+-------------------------------------
+
+
+To improve:
+-----------
+
+More examples
+
+Time to set up files and save to local drive and folder could be reduced so that we have more time for R itself
+
+Needed a little more time for the challenge
+
+Transitioning from web scrape of gDat to saving file on disc was a bit confusing. Instead, how about just start at 2nd step?
+
+
+Good/Keep
+----------
+
+Good pace +5
+
+I knew most of this already but it was still useful
+
+Good presenter
+
+Liked the challenge +3
+
+Clear and easy to follow +3
+
+Really good intro to R using data.frames
+
+with() was very useful
+
+Great combination of concepts and specific examples
+
+Data.frame and subset very helpful along with tab, Alt+- pointers
+
+Enjoyeed R data.frames
+
+Would have liked to see more advanced R data.frame manipulation
+
+
+General comments:
+-----------------
+
+
+To improve:
+-----------
+
+Have setup help at 8:30am, then assume everyone to have software installed before class.
+
+Would be nice to spend more time on exploring built-in R functions. Especially for those of us with little R experience.
+
+No free coffee!
+
+Hard to read screen when at the very bottom +1
+
+Be more specific about the learning goals for the session
+
+Would like to see more output/graphing options
+
+I'm not 100% familiar with all the code terms (like "comma delimited file"). Could you please give a little 1 sentence explanation for each term?
+
+
+Good/Keep:
+----------
+
+Everything makes sense and I feel like I am learning a lot
+
+Resources are very useful
+
+Glad exploring alternatives
+
+Excellent use of chat, stickies, lecture
+
+I like that we have lots of resources
+
+tab completion to minimize typing (and thus typos) excellent
