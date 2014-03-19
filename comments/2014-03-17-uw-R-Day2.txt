@@ -1,0 +1,38 @@
+the comparison of apply, aggregate & ddply was helpful. I'm already familiar with some of those so it's good to see how to accomplish similar things with different functions.
+
+Appreciate time all 3 instructors spent to troubleshoot and explain concepts that were particularly challenging.
+
+Great workshop. Maybe small group stuff would be good.
+
+The Noble schematic for file organization was helpful.
+
+File organization discussion excellent.
+
+Jenny is awesome! I wish she could teach me R all the time.
+
+Great course, I learnt a lot. Thank-you very much to all 3 of you!!!
+
+Went well. I fell like the later sessions would probably benefit from a better introduction to R syntax.
+
+Good to go in detail with apply and aggregate commands and usage. Good amount of time for answering questions.
+
+Jenny's presentation style is great. It's soooo helpful the way she translates each chunk of code into plain English.
+
+"Tricks" with data-frames (aggregate, ddply) seem super useful.
+
+The one-on-one help was really advantageous for this session.
+
+Thanks for the one-on-one help. It makes a huge difference.
+
+Really appreciate when we pause to make sure everyone is following.
+
+Good to go through details of setting up a git repository and push/pull collaboration because lots of errors and questions come up.
+
+Check data aggregation. Check pipelines. Check whirlwind tour through prewritten scripts to save time and illustrate concepts.
+
+Excellent presentations. Lots of useful info and very clear explanations.
+
+Jenny very clear and animated.
+
+The afternoon session by Jenny was so informative -- she's a great teacher and I wish I could spend more time learning from her.
+
