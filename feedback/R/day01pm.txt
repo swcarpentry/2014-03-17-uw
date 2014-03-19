@@ -1,0 +1,118 @@
+Feedback R workshop at UW
+2014-03-17 afternoon
+
+Intro git local (Lynne)
+---------------------------------
+
+
+To improve:
+-----------
+
+Too slow +1
+
+Using git in terminal was confusing and hard to follow
+
+git discussion in terminal should be slower and more clear. Easy to get behind here
+
+teaching git in the shell before teaching the shell seemend an odd choice
+
+I think starting with the command prompt makes more sense
+
+Much more hand holding and explanation was needed, especially for the shell portion
+
+this session was not that helpful - who uses that? +1
+
+structure of session was kind of funny
+
+could have used more explanation on the theory
+
+somewhat unclear (jargon) and difficult to follow +2
+
+Could not always see previous commands in bash window
+
+Would be nice to have pdf describing main points and installation steps distributed prior to session
+
+volume and pacing was variable
+
+Please speak up and more energetically +1
+
+I got behind and lost track
+
+
+
+
+
+
+
+Good/Keep:
+----------
+
+
+
+
+
+Data visualization with ggplot2 (Jenny)
+-------------------------------------
+
+
+To improve:
+-----------
+
+Would like to see more figure and table creation (for polished tables)
+
+went a bit fast through the options +1
+
+please provide cheat sheet before hand
+
+
+Good/Keep
+----------
+
+ggplot was all good
+
+Nice tour of ggplot
+
+nice overview of options
+
+awesome session +1
+
+brilliant. Thank you!
+
+examples very helpful +1
+
+nice overview of grammar, which I hadn't fully appreciated before +1
+
+loved seeing the different ways to use ggplot
+
+great energy, clear instruction
+
+Jenny is a great presenter - good slides, pace, energy
+
+I liked the mix of typing code to get started, then switching to showing examples
+
+great practice with vectors and ggplot
+
+ooohhh - pretty graphs!
+
+
+
+General comments:
+-----------------
+
+
+To improve:
+-----------
+
+a little more repetition of important points or syntax to help it sink in
+
+
+Good/Keep:
+----------
+
+I really like when we have tasks to do
+
+All the R stuff (vectors, data.frames, ggplot2) was cool and informative
+
+Helpful to have code available to double-check
+
+
